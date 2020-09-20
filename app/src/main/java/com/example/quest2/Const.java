@@ -1,0 +1,14 @@
+package com.example.quest2;
+
+public class Const {
+    //Start
+    public static final int START_CREATE_ACCOUNT = 107;
+
+    //Activity
+    public static final int ACTIVITYMAIN = 1000;
+
+    public static final int ACTIVITYPROFILE = 1001;
+    public static final int ACTIVITYMAP = 1002;
+    public static final int ACTIVITYCHATBOARD = 1003;
+    public static final int ACTIVITYCHATROOM = 1300;
+}

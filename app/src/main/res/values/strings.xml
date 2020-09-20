@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quest2</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="facebook_app_id">907644796346915</string> <string name="fb_login_protocol_scheme">fb907644796346915</string>
+
+</resources>
